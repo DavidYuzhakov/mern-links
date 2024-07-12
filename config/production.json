@@ -1,0 +1,6 @@
+{
+  "port": 4444,
+  "jwtSecret": "eto david middle dev",
+  "mongoUri": "mongodb+srv://david:david123@cluster0.gzvdawi.mongodb.net/vladilen-mern?retryWrites=true&w=majority&appName=Cluster0",
+  "baseUrl": "http://localhost:4444"
+}
